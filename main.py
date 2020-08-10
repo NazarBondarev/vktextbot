@@ -14,7 +14,7 @@ from vk_api.upload import VkUpload
 import json
 
 
-token = "52a83d570349d3322858619f6e4aa2dfb38e542efab8373c4824f12feea571830d48ab7473a709d351551"
+token = "TOKEN"
 
 
 
